@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OceanLVL", "OceanLVL\OceanLVL.vcxproj", "{3EFDB41C-D1BA-4546-871C-A6A92357AC99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EFDB41C-D1BA-4546-871C-A6A92357AC99}.Debug|x64.ActiveCfg = Debug|x64
+		{3EFDB41C-D1BA-4546-871C-A6A92357AC99}.Debug|x64.Build.0 = Debug|x64
+		{3EFDB41C-D1BA-4546-871C-A6A92357AC99}.Debug|x86.ActiveCfg = Debug|Win32
+		{3EFDB41C-D1BA-4546-871C-A6A92357AC99}.Debug|x86.Build.0 = Debug|Win32
+		{3EFDB41C-D1BA-4546-871C-A6A92357AC99}.Release|x64.ActiveCfg = Release|x64
+		{3EFDB41C-D1BA-4546-871C-A6A92357AC99}.Release|x64.Build.0 = Release|x64
+		{3EFDB41C-D1BA-4546-871C-A6A92357AC99}.Release|x86.ActiveCfg = Release|Win32
+		{3EFDB41C-D1BA-4546-871C-A6A92357AC99}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9140E863-D1AB-4438-93E0-459B8CC17837}
+	EndGlobalSection
+EndGlobal
